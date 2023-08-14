@@ -28,7 +28,11 @@ use `ng serve` to start the Angular Application
 Application images:
 
 ## Frontend
-
 ![UI](photos/employeemanagerUI.jpg)
 
+## Postman Testing
+![POSTMAN](photos/postmanTesting.jpg)
+
+## Backend Database
+![POSTMAN](photos/backendDatabase.jpg)
 
